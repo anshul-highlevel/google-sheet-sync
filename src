@@ -1,9 +1,0 @@
-<script>start("/Users/anshul.chandra/.cursor-tutor/google-sheets-monitor-2/src/");</script>
-<script>onHasParentDirectory();</script>
-<script>addRow("change-detector.ts","change-detector.ts",0,8405,"8.2 kB",1765857955,"12/16/25, 9:35:55 AM");</script>
-<script>addRow("config.ts","config.ts",0,710,"710 B",1765848796,"12/16/25, 7:03:16 AM");</script>
-<script>addRow("drive-watch.ts","drive-watch.ts",0,1923,"1.9 kB",1765840637,"12/16/25, 4:47:17 AM");</script>
-<script>addRow("index.ts","index.ts",0,9188,"9.0 kB",1765857955,"12/16/25, 9:35:55 AM");</script>
-<script>addRow("setup.ts","setup.ts",0,1013,"1013 B",1765840637,"12/16/25, 4:47:17 AM");</script>
-<script>addRow("sheets-client.ts","sheets-client.ts",0,1599,"1.6 kB",1765857303,"12/16/25, 9:25:03 AM");</script>
-<script>addRow("types.ts","types.ts",0,759,"759 B",1765840637,"12/16/25, 4:47:17 AM");</script>
